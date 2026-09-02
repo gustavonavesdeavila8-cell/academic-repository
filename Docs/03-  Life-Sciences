@@ -1,1 +1,84 @@
+## Life Sciences
 
+This research area focuses on the quantitative investigation of biological and
+environmental systems under conditions of disturbance, adaptation, and recovery.
+
+My work explores the intersection between ecological processes, environmental
+change, remote sensing, and human development, with particular interest in how
+differences in socioeconomic and environmental conditions influence the
+resilience of coupled human–natural systems.
+
+### Research Domains
+
+- **Environmental and Ecological Dynamics**
+  - Ecosystem responses to extreme environmental disturbances.
+  - Vegetation loss, hydrological change, and post-disturbance recovery.
+
+- **Remote Sensing and Earth Observation**
+  - Quantitative analysis of satellite-derived environmental indicators.
+  - Spatiotemporal monitoring using multispectral imagery.
+  - NDVI, NDWI, land-cover dynamics, and time-series analysis.
+
+- **Resilience and Recovery Science**
+  - Comparative analysis of ecological and societal recovery.
+  - Relationships between environmental vulnerability and human development.
+  - Quantifying recovery trajectories following extreme events.
+
+- **Computational and Quantitative Methods**
+  - Geospatial analysis and reproducible scientific workflows.
+  - Statistical modelling of environmental change.
+  - Satellite data processing and visualization.
+
+LIFE SCIENCES
+│
+├── Ecological Systems
+├── Environmental Disturbance
+├── Earth Observation
+├── Quantitative Analysis
+└── Human–Environmental Resilience
+
+                         LIFE SCIENCES
+              ─────────────────────────────────
+
+                 ┌──────────────────────┐
+                 │   EARTH SYSTEMS     │
+                 │──────────────────────│
+                 │ Atmosphere          │
+                 │ Hydrosphere         │
+                 │ Biosphere           │
+                 └──────────┬───────────┘
+                            │
+                            ▼
+              ┌────────────────────────────┐
+              │   ENVIRONMENTAL CHANGE     │
+              │────────────────────────────│
+              │ Disturbance · Exposure     │
+              │ Vulnerability · Impact     │
+              └──────────────┬─────────────┘
+                             │
+                             ▼
+                    ╭────────────────╮
+                    │   OBSERVATION  │
+                    │      SPACE     │
+                    │                │
+                    │   SATELLITE    │
+                    │   IMAGERY      │
+                    ╰────────┬───────╯
+                             │
+                             ▼
+              ┌────────────────────────────┐
+              │  QUANTITATIVE ANALYSIS      │
+              │────────────────────────────│
+              │ NDVI · NDWI · Time Series  │
+              │ Spatial Statistics          │
+              └──────────────┬─────────────┘
+                             │
+                             ▼
+                 ┌──────────────────────┐
+                 │  RESILIENCE &        │
+                 │  RECOVERY            │
+                 │──────────────────────│
+                 │ Ecological Systems   │
+                 │ Human Systems        │
+                 └──────────────────────┘
+====================================================================================================================================================================================================
