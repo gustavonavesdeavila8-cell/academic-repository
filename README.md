@@ -18,7 +18,7 @@ A curated public collection of academic literature, research files, and structur
 
 ---
 
-**Curation Standards (Tier 1)**
+**Curation Standards**
 1. **Academic Validation**: Content drawn exclusively from peer-reviewed publications, university syllabi, and established academic authorities.
 2. **Conceptual Precision**: High-fidelity summaries with transparent citations and zero fluff.
 3. **Structured Taxonomy**: Uniform directory layout for quick cross-referencing and study efficiency.
